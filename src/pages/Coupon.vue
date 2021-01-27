@@ -10,8 +10,6 @@
           <v-toolbar-title>All Coupon List</v-toolbar-title>
 
           <v-spacer></v-spacer>
-
-          <!-- <v-text-field class="mx-3 search-box" flat label="Search" prepend-inner-icon="mdi-magnify" solo-inverted v-model="search" clearable ></v-text-field> -->
         </v-toolbar>
         <v-data-table
           :headers="headers"
